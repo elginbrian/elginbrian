@@ -1,0 +1,3 @@
+baris-1 
+is-1 
+baris-2 
