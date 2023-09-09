@@ -1,6 +1,0 @@
-AvhZIg,2023-05-23-03-38-23z,Whispers of the Moon                              ,Cassandra Everly                                  ,2018
-JvpMKS,2023-05-23-03-39-23z,The Forgotten Symphony                            ,Oliver Hartman                                    ,2005
-rlVnNK,2023-05-23-03-40-01z,The Enigmatic Puzzle                              ,Amelia Thornton                                   ,2022
-XHbMpk,2023-05-23-05-05-57z,The Secret Garden of Shadows                      ,Julianne Adams                                    ,2019
-wsYaJN,2023-05-23-05-06-33z,Echoes of Eternity                                ,Sebastian Greene                                  ,2020
-qmbcw,2023-05-23-09-42-22z,The Lost Chronicles of Avalon                      ,Eleanor B. Sinclair                               ,2006
