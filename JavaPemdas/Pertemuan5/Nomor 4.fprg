@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="elgin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-13 02:31:00 PM"/>
+        <attribute name="created" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzAyOjIzOjMzIFBNOzI1MzU="/>
+        <attribute name="edited" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzAyOjMxOjAwIFBNOzE7MjYzNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="radius, phi, area" type="Real" array="False" size=""/>
+            <input variable="radius"/>
+            <assign variable="phi" expression="3.14"/>
+            <assign variable="area" expression="pi * (radius * radius)"/>
+            <output expression="area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

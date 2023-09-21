@@ -1,0 +1,110 @@
+1. Buatlah algoritme menggunakan pseudocode untuk menghitung luas persegi panjang
+
+Declare
+length, width, area : float
+
+Start
+Input length
+Input width
+
+area <-- length * width
+
+print(area)
+End
+
+
+
+2. Buatlah algoritme menggunakan pseudocode untuk mengubah jam dan menit yang dimasukkan 
+ke dalam satuan detik.
+
+Declare
+hour, minute, hourToSecond, minuteToSecond, second : integer
+
+Start
+Input hour
+Input minute
+
+hourToSecond <-- hour * 3600
+minuteToSecond <-- minute * 60
+second <-- hourToSecond + minuteToSecond
+
+print(second)
+End
+
+
+
+3. Buatlah algoritme menggunakan pseudocode untuk mementukan apakah bilangan yang dimasukkan
+adalah bilangan ganjil atau bilangan genap.
+
+Declare
+number : integer
+
+Start
+Input number
+
+if number % 2 == 0 then
+    print("bilangan termasuk genap")
+else 
+    print("bilangan termasuk ganjil")
+end if
+End
+
+
+
+4. Buatlah algoritme menggunakan pseudocode untuk menghitung luas lingkaran.
+
+Declare
+radius, pi, area : float
+
+Start 
+Input radius
+phi <-- 3.14
+
+area <-- phi * (radius * radius)
+
+print(area)
+End
+
+
+
+5. Buatlah algoritme menggunakan pseudocode untuk memasukkan 3 buah bilangan,
+kemudian tentukan bilangan terbesar, terkecil, dan rata-ratanya.
+
+Declare
+num1, num2, num3, max, min, mean : float
+
+Start
+Input num1
+Input num2
+Input num3
+
+mean <-- (num1 + num2 + num3) / 3
+
+if num1 > num2 and num1 > num3 then
+    max <-- num1
+else if num2 > num3 and num2 > num1 then
+    max <-- num2
+else
+    max <-- num3
+end if
+
+if num1 < num2 and num1 < num3 then
+    min <-- num1
+else if num2 < num3 and num2 < num1 then
+    min <-- num2
+else
+    min <-- num3
+end if
+
+print(max)
+print(min)
+print(mean)
+End
+
+
+
+
+
+
+        
+

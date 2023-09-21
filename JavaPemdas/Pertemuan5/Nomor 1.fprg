@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="elgin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-13 02:13:47 PM"/>
+        <attribute name="created" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzAyOjA3OjQwIFBNOzI1MzU="/>
+        <attribute name="edited" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzAyOjEzOjQ3IFBNOzI7MjY0OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="length, width, area" type="Real" array="False" size=""/>
+            <input variable="length"/>
+            <input variable="width"/>
+            <assign variable="area" expression="length * width"/>
+            <output expression="area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="elgin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-13 05:30:30 PM"/>
+        <attribute name="created" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzAyOjEzOjUyIFBNOzI1MzU="/>
+        <attribute name="edited" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzA1OjMwOjMwIFBNOzI7MjY0Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="hour, minute, hourToSecond, minuteToSecond, second" type="Integer" array="False" size=""/>
+            <input variable="hour"/>
+            <input variable="minute"/>
+            <assign variable="hourToSecond" expression="hour * 3600"/>
+            <assign variable="minuteToSecond" expression="minute * 60"/>
+            <assign variable="second" expression="hourToSecond + minuteToSecond"/>
+            <output expression="second" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
