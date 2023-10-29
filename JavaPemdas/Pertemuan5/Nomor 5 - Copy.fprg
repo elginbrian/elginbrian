@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="elgin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-12 08:33:40 AM"/>
+        <attribute name="created" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTA5LTEzOzAyOjMzOjA1IFBNOzI1MzU="/>
+        <attribute name="edited" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTEwLTEyOzA4OjMzOjQwIEFNOzQ7MjYyNw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num1, num2, num3, max" type="Real" array="False" size=""/>
+            <input variable="num1"/>
+            <input variable="num2"/>
+            <input variable="num3"/>
+            <if expression="num1 &gt; num2 and num1 &gt; num3">
+                <then>
+                    <assign variable="max" expression="num1"/>
+                </then>
+                <else>
+                    <if expression="num2 &gt; num3 and num2 &gt; num1">
+                        <then>
+                            <assign variable="max" expression="num2"/>
+                        </then>
+                        <else>
+                            <assign variable="max" expression="num3"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+            <output expression="max" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

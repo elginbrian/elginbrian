@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="elgin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-12 11:31:27 AM"/>
+        <attribute name="created" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTEwLTEyOzA4OjMzOjUwIEFNOzI1MTc="/>
+        <attribute name="edited" value="ZWxnaW47RUxHSU5CUklBTjsyMDIzLTEwLTEyOzExOjMxOjI3IEFNOzI7MjYyMg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nilaiTugas, nilaiUTS, nilaiUAS, nilaiAkhir" type="Real" array="False" size=""/>
+            <declare name="grade" type="String" array="False" size=""/>
+            <input variable="nilaiTugas"/>
+            <input variable="nilaiUTS"/>
+            <input variable="nilaiUAS"/>
+            <assign variable="nilaiAkhir" expression="(0.2 * nilaiTugas) + (0.3 * nilaiUTS) + (0.5 * nilaiUAS)"/>
+            <if expression="nilaiAkhir &gt;= 85">
+                <then>
+                    <assign variable="grade" expression="&quot;A&quot;"/>
+                </then>
+                <else>
+                    <if expression="nilaiAkhir &gt;= 70 &amp;&amp; nilaiAkhir &lt; 85">
+                        <then>
+                            <assign variable="grade" expression="&quot;B&quot;"/>
+                        </then>
+                        <else>
+                            <if expression="nilaiAkhir &gt;= 55 &amp;&amp; nilaiAkhir &lt; 70">
+                                <then>
+                                    <assign variable="grade" expression="&quot;C&quot;"/>
+                                </then>
+                                <else>
+                                    <if expression="nilaiAkhir &gt;= 40 &amp;&amp; nilaiAkhir &lt; 55">
+                                        <then>
+                                            <assign variable="grade" expression="&quot;D&quot;"/>
+                                        </then>
+                                        <else>
+                                            <assign variable="grade" expression="&quot;E&quot;"/>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+            <output expression="&quot;Nilai Akhir = &quot; &amp; nilaiAkhir" newline="True"/>
+            <output expression="&quot;grade = &quot; &amp; grade" newline="True"/>
+            <if expression="(nilaiTugas &lt; 40) || (nilaiUTS &lt; 40) || (nilaiUAS &lt; 40)">
+                <then>
+                    <output expression="&quot;Mahasiswa dinyatakan TIDAK LULUS&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Mahasiswa dinyatakan LULUS&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
