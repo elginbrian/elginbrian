@@ -1,0 +1,22 @@
+html {
+    background-color: black;
+
+} #image {
+    height: 70%;
+    width: 70%;
+    margin-left: 12.5%;
+    margin-bottom: 2.5%;
+    border: 5px solid white;
+
+} #div1 {
+    width: 100%;
+    height: 50%;
+    border: 5px solid white;
+    margin-bottom: 50px;
+
+} #H2 {
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+    
+}
