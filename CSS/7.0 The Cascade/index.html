@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>The Cascade</title>
+    <link rel = "stylesheet" href = "style.css"/>
+
+    <style>
+        #p1 {
+            color: violet;
+        }
+    </style>
+</head>
+
+<body>
+    <ol id = "ol1">
+        <li> One </li>
+        <li style = "color: red"> Two </li>
+        <li> Three </li>
+    </ol>
+
+    <!-- Position (Rank 4)-->
+    <ol id = "ol2">
+        <li> alpha </li>
+        <li> beta </li>
+    </ol>
+
+    <!-- Specificity (Rank 3)-->
+    <ol id = "ol3">
+        <li id="Lorem" class="Lorem-ipsum" draggable="true"> lorem </li>
+        <li> ipsum </li>
+    </ol>
+
+    <!-- Type (Rank 2)-->
+    <p id="p1" style = "color: brown"> Bonjour </p>
+
+    <!-- Importance (Rank 1)-->
+    <p id="p2"> Slay... </p>
+
+    <!-- Multiple class -->
+    <p class="p3 p4"> Meww... </p>
+</body>
+</html>

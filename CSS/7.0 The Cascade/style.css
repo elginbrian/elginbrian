@@ -1,0 +1,38 @@
+#ol1 {
+    color: green;
+} #ol2 {
+    color: red;
+    color: blue;
+}
+
+li {color: green;}
+.Lorem-ipsum {color: red;}
+li[draggable] {color: purple;}
+#Lorem {color: orange;}
+
+#p1 {
+    color: yellow;
+} #p2 {
+    color: orange !important;
+    color: blue; 
+} .p3 {
+    color: yellow;
+} .p4 {
+    color: purple;
+}
+
+#outer-box {
+    border: 10px solid purple;
+    padding: 10px;
+    background-color: blue;
+} .inner-box {
+    padding: 10px;
+    background-color: red;
+} .box {
+    color: yellow;
+    font-size: 20px;
+    margin-top: 4px;
+} .white-text {
+    color: white;
+    font-size: 20px;
+}
