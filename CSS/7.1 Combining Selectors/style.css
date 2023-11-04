@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+} p {
+    color: yellow;
+} .inner-box p {
+    color: white;
+} #p1, #p2 {
+    color: blue;
+} #parent > #child {
+    color: aqua;
+} #ancestor #descendant {
+    color: brown;
+} p.classA.classB {
+    color: crimson;
+} p.classB {
+    color: salmon;
+} li {
+    color: white;
+} div li.classC {
+    font-size: 30px;
+}

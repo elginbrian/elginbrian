@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset= "utf-8">
+    <title>Combining Selectors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <p>Yellow Text</p>
+    <div class="box inner-box">
+        <p>White Text</p>
+    </div>
+
+    <!-- Group Rule -->
+    <p id="p1">First Sentence</p>
+    <p id="p2">Second Sentence</p>
+
+    <!-- Child Rule -->
+    <div>
+        <div id="parent">
+            <p id="child">Hello World</p>
+        </div>
+    </div>
+
+    <!-- Descendant Rule -->
+    <div id="ancestor">
+        <div>
+            <p id="descendant">Arigatou</p>
+        </div>
+    </div>
+
+    <!-- Chain Rule -->
+    <p class="classA">One</p>
+    <p class="classB">Two</p>
+    <p class="classA classB">Three</p>
+
+    <!-- Descendant Chain Rule -->
+    <div>
+        <ol>
+            <li>Ichi</li>
+            <li>Ni</li>
+            <li class="classC">San</li>
+        </ol>
+    </div>
+</body>
+</html>
