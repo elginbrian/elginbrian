@@ -1,0 +1,23 @@
+#border1 {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+} #border2 {
+    position: fixed;
+        margin-left: 220px;
+        margin-top: 0px;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+}
+
+#static-position {
+    width: 180px;
+    height: 180px;
+    background-color: coral;
+    position: static;
+}
+
+#border1 h3{
+    text-align: center;
+}
