@@ -1,3 +1,4 @@
+![output_image](https://github.com/elginbrian/elginbrian/assets/132267129/c781396e-f499-43f1-a191-a332fd4b4781)
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
