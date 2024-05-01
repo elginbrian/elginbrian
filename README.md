@@ -1,4 +1,4 @@
-![output_image](https://github.com/elginbrian/elginbrian/assets/132267129/c781396e-f499-43f1-a191-a332fd4b4781)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=F70AB2EA&background=FFFBE800&vCenter=true&random=false&width=600&height=50&lines=Greetings!;Aspiring+Mobile+Developer!;Kotlin++|++Jetpack+Compose++|++Flutter+(soon))](https://git.io/typing-svg)
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=radical)](https://git.io/streak-stats)
@@ -14,6 +14,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div> <br/>
 :seedling: First "Hello World": April 27th, 2023
