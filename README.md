@@ -1,8 +1,8 @@
 ![output_image](https://github.com/elginbrian/elginbrian/assets/132267129/c781396e-f499-43f1-a191-a332fd4b4781)
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
