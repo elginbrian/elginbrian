@@ -20,5 +20,5 @@
 
 ---
 ### 🏗️ Projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=Raion-Coinvest&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=hackfestuc2024_frontend&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=Raion-Coinvest&theme=radical)](https://github.com/elginbrian/Raion-Coinvest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=hackfestuc2024_frontend&theme=radical)](https://github.com/elginbrian/hackfestuc2024_frontend)
