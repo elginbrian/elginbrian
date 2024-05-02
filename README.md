@@ -17,3 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div> <br/>
 :seedling: First "Hello World": April 27th, 2023
+
+---
+### 🏗️: Top Projects :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=Raion-Coinvest&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=hackfestuc2024_frontend&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
