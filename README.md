@@ -20,6 +20,6 @@
 
 ---
 ### 🏗️ Projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=KMP-CalTrack&theme=radical)](https://github.com/elginbrian/KMP-CalTrack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=COMPFEST16-SEA-SALON&theme=radical)](https://github.com/elginbrian/COMPFEST16-SEA-SALON)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5bounties&repo=5bounties-Trufriend-FE&theme=radical)](https://github.com/5bounties/5bounties-Trufriend-FE)
 
