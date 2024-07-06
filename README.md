@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=1acef6&background=FFFBE800&vCenter=true&random=false&width=600&height=50&lines=Greetings!✨;Aspiring+Mobile+Developer!🚀;Kotlin++|++Jetpack+Compose++|++Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=1acef6&background=FFFBE800&vCenter=true&random=false&width=600&height=50&lines=こんにちは、みんな！✨;Aspiring+Mobile+Developer!🚀;Kotlin++|++Jetpack+Compose++|++Flutter)](https://git.io/typing-svg)
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=algolia)](https://git.io/streak-stats)
