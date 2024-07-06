@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=1acef6&background=FFFBE800&vCenter=true&random=false&width=500&height=50&lines=こんにちは、みんな！✨;Aspiring+Mobile+Developer!🚀;Kotlin++•++Jetpack+Compose++•++Flutter)](https://git.io/typing-svg) 
+<div style="text-align: justify;">
 <p>Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology major at the Faculty of Computer Science, Universitas Brawijaya. I have a keen interest in mobile development, particularly with Kotlin and Dart.</p>
+</div>
 
 #
 ### :fire: My Stats :
