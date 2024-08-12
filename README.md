@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=1acef6&background=FFFBE800&vCenter=true&random=false&width=500&height=50&lines=こんにちは、みんな！✨;Aspiring+Mobile+Developer!🚀;Kotlin++•++Jetpack+Compose++•++Flutter)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=fe019a&background=FFFBE800&vCenter=true&random=false&width=500&height=50&lines=こんにちは、みんな！✨;Aspiring+Mobile+Developer!🚀;Kotlin++•++Jetpack+Compose++•++Flutter)](https://git.io/typing-svg) 
 
 Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology major at the Faculty of Computer Science, Universitas Brawijaya. I have a keen interest in mobile development, particularly with **Kotlin** and **Dart**.
 
 #
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=algolia)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elginbrian&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -27,6 +27,6 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 #
 
 ### 🏗️ Projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=COMPFEST16-SEA-SALON&theme=algolia)](https://github.com/elginbrian/COMPFEST16-SEA-SALON)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5bounties&repo=5bounties-Trufriend-FE&theme=algolia)](https://github.com/5bounties/5bounties-Trufriend-FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=COMPFEST16-SEA-SALON&theme=radical)](https://github.com/elginbrian/COMPFEST16-SEA-SALON)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5bounties&repo=5bounties-Trufriend-FE&theme=radical)](https://github.com/5bounties/5bounties-Trufriend-FE)
 
