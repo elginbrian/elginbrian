@@ -27,6 +27,6 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 #
 
 ### 🏗️ Projects :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=highfive-compfest&repo=seatudy-frontend&theme=radical)](https://github.com/highfive-compfest/seatudy-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=COMPFEST16-SEA-SALON&theme=radical)](https://github.com/elginbrian/COMPFEST16-SEA-SALON)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5bounties&repo=5bounties-Trufriend-FE&theme=radical)](https://github.com/5bounties/5bounties-Trufriend-FE)
 
