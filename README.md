@@ -26,6 +26,6 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 
 #
 
-### 🏗️ Projects :
+### 🏗️ Recent Projects :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=Greventure&theme=radical)](https://github.com/elginbrian/Greventure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=seatudy-frontend&theme=radical)](https://github.com/highfive-compfest/seatudy-frontend)
