@@ -8,7 +8,7 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #
 ### :hammer_and_wrench: Languages and Tools :
- [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,firebase,supabase,docker,java,php,py,js,ts,tailwind,react,nextjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,firebase,supabase,docker,java,php,py,js,ts,tailwind,react,nextjs&perline=8)](https://skillicons.dev)
  
 
 :seedling: First "Hello World": April 27th, 2023
