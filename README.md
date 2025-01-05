@@ -14,13 +14,6 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 :seedling: First "Hello World": April 27th, 2023
 
 #
-
-### 🏗️ Recent Projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=EDUTECH-BE&theme=radical)](https://github.com/elginbrian/EDUTECH-BE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elginbrian&repo=ONLYFIX-BE&theme=radical)](https://github.com/elginbrian/ONLYFIX-BE)
-
-#
-
 ### 📈 Activity Graphs :
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elginbrian&bg_color=141321&color=c83775&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
