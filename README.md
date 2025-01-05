@@ -9,7 +9,7 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 
 #
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,py,js,ts,go,react,nextjs,tailwind,nest,laravel,postgres,mysql,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,ts,react,nextjs,tailwind,vercel,go,nest,laravel,bash,postgres,mysql,docker&perline=8)](https://skillicons.dev) 
 
 :seedling: First "Hello World": April 27th, 2023
 
