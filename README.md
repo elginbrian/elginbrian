@@ -4,8 +4,8 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 
 #
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elginbrian&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elginbrian&theme=nightowl)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 ### :hammer_and_wrench: Languages and Tools :
