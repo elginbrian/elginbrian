@@ -4,14 +4,15 @@ Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technolog
 
 #
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elginbrian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elginbrian&theme=nightowl)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI,elginbrian)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,ts,react,nextjs,tailwind,vercel,go,nest,laravel,bash,postgres,mysql,docker&perline=8)](https://skillicons.dev) 
 
-:seedling: First "Hello World": April 27th, 2023
+:seedling: First "Hello World": April 27, 2023
+:mechanical_arm: 1000th Contribution: January 21, 2025
 
 #
 ### 📈 Activity Graphs :
