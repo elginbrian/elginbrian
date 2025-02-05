@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=00d8fe&background=00000000&vCenter=true&random=false&width=750&height=50&lines=やあ、デベロッパーのみなさん！✨;Passionate+Software+Engineer+🚀;Building+Mobile%2C+Front-End%2C+and+Back-End+Solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=00d8fe&background=00000000&vCenter=true&random=false&width=750&height=50&lines=やあ、デベロッパーのみなさん！✨;Passionate+Software+Engineer🚀;Building+Mobile%2C+Front-End%2C+and+Back-End+Solutions!)](https://git.io/typing-svg)
 
 Hi there! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology student at the Faculty of Computer Science, Universitas Brawijaya. I have a strong passion for software development, with a particular focus on the tech stacks listed below.
 
@@ -16,5 +16,6 @@ Hi there! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology
 
 #
 ### 📈 Activity Graphs :
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elginbrian&bg_color=0e1627&color=00d8fe&line=4db8ff&point=38bdf8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elginbrian&bg_color=0e1627&color=00d8fe&line=4db8ff&point=38bdf8&area=true&hide_border=true" height="250px"/>
+</a>
