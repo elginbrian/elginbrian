@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=00d8fe&background=00000000&vCenter=true&random=false&width=500&height=50&lines=こんにちは、みんな！✨;Software+Engineering+Enthusiast!🚀;Mobile+|+Front-End+|+Back-End)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=00d8fe&background=00000000&vCenter=true&random=false&width=750&height=50&lines=やあ、デベロッパーのみなさん！✨;Passionate+Software+Engineer+🚀;Building+Mobile%2C+Front-End%2C+and+Back-End+Solutions!)](https://git.io/typing-svg)
 
-Greetings! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology major at the Faculty of Computer Science, Universitas Brawijaya. I am keenly interested in software development, particularly with the tech stacks mentioned below.
+Hi there! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology student at the Faculty of Computer Science, Universitas Brawijaya. I have a strong passion for software development, with a particular focus on the tech stacks listed below.
 
 #
 ### :fire: My Stats :
