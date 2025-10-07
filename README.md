@@ -6,7 +6,7 @@ Hi there! I'm Elgin Brian Wahyu Bramadhika, a second-year Information Technology
 ### :fire: My Stats :
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=elginbrian&theme=nightowl" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,Raion-Coinvest,Statistika-SA,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI,elginbrian" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrian&layout=compact&theme=nightowl&exclude_repo=HackFest-KereHore,Raion-RawrNotes,DDAP-BISA-INDONESIA,hackfestuc2024_frontend,5bounties-Trufriend-FE,PEMLAN-FILKOM-TOUR,ASCEND-KBMDSI,elginbrian" height="180px"/>
 </div>
 
 #
